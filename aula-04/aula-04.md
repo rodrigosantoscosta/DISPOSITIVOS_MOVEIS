@@ -11,4 +11,8 @@
 3. Projeto novo com ExpoGo roda npx blahblah expo-go create-expo-app blah blah
 4. Seleciona SDK 57
 5. O que é o ExpoGo
-6.
+6. Criar SafeArea quando for Abrir/fazer uma view
+7. Terminar pagina de UserScreen
+8. Fazer uma pagina de about 
+9. 7 e 8 de uma nav
+10.
